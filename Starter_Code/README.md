@@ -16,10 +16,10 @@ Crypto-Clustering-Challenge
 
 # Optimize the Clusters with Principal Component Analysis 
 
-# Find the Best Value for k by Using the PCA Data (10 points)
+# Find the Best Value for k by Using the PCA Data 
 
-# Cluster the Cryptocurrencies with K-means by Using the PCA Data (10 points)
+# Cluster the Cryptocurrencies with K-means by Using the PCA Data 
 
-# Visualize and Compare the Results (15 points)
+# Visualize and Compare the Results 
 
 References/Guidance: Lesson 19: Unsupervised Learning Activity 2 & Activity 3 
